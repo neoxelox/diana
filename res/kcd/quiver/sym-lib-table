@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "RF_Espressif")(type "KiCad")(uri "/home/alex/GoogleDrive/Projectos/diana/res/kcd/vendor/espressif/libraries/Espressif.kicad_sym")(options "")(descr "Espressif WiFi modules"))
+  (lib (name "Connector_GCT")(type "KiCad")(uri "/home/alex/GoogleDrive/Projectos/diana/res/kcd/vendor/gct/libraries/GCT.kicad_sym")(options "")(descr "GCT USB connectors"))
+  (lib (name "LED_CREE")(type "KiCad")(uri "/home/alex/GoogleDrive/Projectos/diana/res/kcd/vendor/cree/libraries/CREE.kicad_sym")(options "")(descr "CREE LEDs"))
+  (lib (name "RF_Quasar")(type "KiCad")(uri "/home/alex/GoogleDrive/Projectos/diana/res/kcd/custom/quasar/libraries/Quasar.kicad_sym")(options "")(descr "Quasar RF modules"))
+  (lib (name "CU_Antenna")(type "KiCad")(uri "/home/alex/GoogleDrive/Projectos/diana/res/kcd/custom/antenna/libraries/Antenna.kicad_sym")(options "")(descr "Custom antennas"))
+  (lib (name "CU_Polyfuse")(type "KiCad")(uri "/home/alex/GoogleDrive/Projectos/diana/res/kcd/custom/polyfuse/libraries/Polyfuse.kicad_sym")(options "")(descr "Custom polyfuses"))
+  (lib (name "Switch_KMR")(type "KiCad")(uri "/home/alex/GoogleDrive/Projectos/diana/res/kcd/custom/kmr/libraries/KMR.kicad_sym")(options "")(descr "KMR switches"))
+)
